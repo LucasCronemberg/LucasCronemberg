@@ -44,7 +44,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LucasCronemberg/LucasCronemberg/output/github-contribution-grid-snake.svg" />
-  
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/LucasCronemberg/count.svg?"  />
+</div>
   <br/><br/>
 </div>
 
