@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Cronemberger!;" />
 </h1>
 
-<h3 align="center">Estudante de Ciência da Computação e aspirante a profissional na área de CyberSecurity.</h3>
+<h3 align="center">Estudante de Ciência da Computação e aspirante a profissional na área de Analise de Dados & CyberSecurity.</h3>
 
 <br/>
 
