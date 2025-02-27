@@ -9,11 +9,11 @@
 
 <div align="center">
  
- ❤️ Meu objetivo é combinar minha paixão por tecnologia com minha curiosidade em **segurança da informação** ❤️
+ ❤️ Meu objetivo é combinar minha paixão por tecnologia com minha curiosidade em **Dados** ❤️
  
- 🌱 Estou atuamente estudando pra obter a **certificação CompTIA Security+** 🌱
+ 🌱 Estou atuamente estudando pra obter a **Certificado Profissional de Google Advanced Data Analytics** 🌱
 
-💬 Entre em **contato** comigo sobre Emprego, CyberSecurity, Python...ou Sport Clube Corinthians Paulista [aqui]() 💬
+💬 Entre em **contato** comigo sobre Trabalhos, CyberSecurity, Python, Data Analysts...ou Sport Clube Corinthians Paulista [aqui]() 💬
 
 
  </div>
